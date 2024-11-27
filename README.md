@@ -26,6 +26,6 @@ I've used common python libraries like : pandas, scikit-learn and plotly. All th
 
 5 - File Description 
 
-Folder data : contains 3 json files : portfolio.json, profile.json and transcript.jso
-Starbucks_Capstone_notebook.ipynb : Notebook of data analysis
-requirements.txt : File used to create the python env. Please use it with pip install -r requirements.txt 
+    Folder data : contains 3 json files : portfolio.json, profile.json and transcript.jso
+    Starbucks_Capstone_notebook.ipynb : Notebook of data analysis
+    requirements.txt : File used to create the python env. Please use it with pip install -r requirements.txt 
