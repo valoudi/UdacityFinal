@@ -17,6 +17,7 @@ Files used for this analysis includes:
 
 
 3 - Blog Post
+
 The blog is available on this  [link](https://medium.com/@valentin_50789/predicting-customer-response-to-starbucks-offers-a-data-science-project-for-udacity-58835f2e60fa)
 
 
