@@ -30,3 +30,7 @@ I've used common python libraries like : pandas, scikit-learn and plotly. All th
     Folder data : contains 3 json files : portfolio.json, profile.json and transcript.jso
     Starbucks_Capstone_notebook.ipynb : Notebook of data analysis
     requirements.txt : File used to create the python env. Please use it with pip install -r requirements.txt 
+
+6 - Acknowledgements
+
+    Thanks to Udacity and Starbucks for the dataset and the projet. 
